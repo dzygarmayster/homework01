@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MYRIADPRO-REGULAR.woff') format("woff");
+}
+
+body {
+    background-color: #f0f4f4;
+}
+
+.wrapper {
+    width: 500px;
+    margin: 0px auto;
+    font-family: Arial;
+}
+
+.content-box {
+    border-bottom: 1px solid #d6d6d9;
+    text-align: center;
+}
+
+.box-title {
+	padding-left: 1px;
+	font-family: "Myriad Pro", Arial;
+    font-size: 1.18em;
+    font-weight: bold;
+	letter-spacing: .015em;
+    text-align: left;
+}
+
+/*========================HEADER SECTION=====================*/
+
+.header {
+	height: 320px;
+}
+
+.header-title {
+    margin: 43px 0 0;
+    font-size: 2.25em;
+    font-weight: bold;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 1px solid #8f8f8f;
+}
+
+.header-text {
+    margin: 16px 0 10px;
+	padding-left: 1px;
+    color: #4a4a4a;
+    font-size: .9em;
+    text-align: left;
+}
+
+/*========================MAIN SECTION=====================*/
+
+.main {
+	height: 117px;
+}
+
+.main-title {
+	margin: 15px 0 0;
+}
+
+.main-list-block {
+    margin: 21px 0 0 33px;
+    text-align: left;
+}
+
+.main-list-item {
+    padding-left: 4px;
+    color: #3b3b3b;
+	font-family: "Myriad Pro", Arial;
+	font-size: .89em;
+}
+
+/*========================CONTACTS SECTION=====================*/
+
+.contacts {
+	height: 150px;
+}
+
+.phone-title {
+    margin: 15px 0 0;
+}
+
+.phone-number {
+    margin: 19px 0 0 36px;
+    color: #3a3a3a;
+	font-family: "Myriad Pro", Arial;
+    font-size: .89em;
+    text-align: left;
+}
+
+.fb-title {
+	margin: 11px 0 0;
+}
+
+.facebook-link {
+    display: block;
+    margin: 22px 0 0 37px;
+	color: #0055D8;
+	font-family: "Myriad Pro", Arial;
+    font-size: small;
+    font-style: italic;
+    text-align: left;
+}
+
+/*========================FEEDBACK SECTION=====================*/
+
+.feedback-title {
+	margin: 15px 0 0;
+}
+
+.feedback {
+    margin: 20px 0 0 37px;
+    color: #3a3a3a;
+	font-family: "Myriad Pro", Arial;
+    font-size: .88em;
+    text-align: left;
+}
