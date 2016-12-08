@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'Myriad Pro';
-    src: url('../fonts/MYRIADPRO-REGULAR.woff') format("woff");
+    src: url('../fonts/MYRIADPRO-REGULAR.woff') format('woff');
 }
 
 body {
@@ -24,18 +24,18 @@ body {
 }
 
 .box-title {
-	padding-left: 1px;
-	font-family: "Myriad Pro", Arial;
+    padding-left: 1px;
+    font-family: "Myriad Pro", Arial;
     font-size: 1.18em;
     font-weight: bold;
-	letter-spacing: .015em;
+    letter-spacing: .015em;
     text-align: left;
 }
 
 /*========================HEADER SECTION=====================*/
 
 .header {
-	height: 320px;
+    height: 320px;
 }
 
 .header-title {
@@ -53,7 +53,7 @@ body {
 
 .header-text {
     margin: 16px 0 10px;
-	padding-left: 1px;
+    padding-left: 1px;
     color: #4a4a4a;
     font-size: .9em;
     text-align: left;
@@ -62,11 +62,11 @@ body {
 /*========================MAIN SECTION=====================*/
 
 .main {
-	height: 117px;
+    height: 117px;
 }
 
 .main-title {
-	margin: 15px 0 0;
+    margin: 15px 0 0;
 }
 
 .main-list-block {
@@ -77,14 +77,14 @@ body {
 .main-list-item {
     padding-left: 4px;
     color: #3b3b3b;
-	font-family: "Myriad Pro", Arial;
-	font-size: .89em;
+    font-family: "Myriad Pro", Arial;
+    font-size: .89em;
 }
 
 /*========================CONTACTS SECTION=====================*/
 
 .contacts {
-	height: 150px;
+    height: 150px;
 }
 
 .phone-title {
@@ -94,20 +94,20 @@ body {
 .phone-number {
     margin: 19px 0 0 36px;
     color: #3a3a3a;
-	font-family: "Myriad Pro", Arial;
+    font-family: "Myriad Pro", Arial;
     font-size: .89em;
     text-align: left;
 }
 
 .fb-title {
-	margin: 11px 0 0;
+    margin: 11px 0 0;
 }
 
 .facebook-link {
     display: block;
     margin: 22px 0 0 37px;
-	color: #0055D8;
-	font-family: "Myriad Pro", Arial;
+    color: #0055D8;
+    font-family: "Myriad Pro", Arial;
     font-size: small;
     font-style: italic;
     text-align: left;
@@ -116,13 +116,13 @@ body {
 /*========================FEEDBACK SECTION=====================*/
 
 .feedback-title {
-	margin: 15px 0 0;
+    margin: 15px 0 0;
 }
 
 .feedback {
     margin: 20px 0 0 37px;
     color: #3a3a3a;
-	font-family: "Myriad Pro", Arial;
+    font-family: "Myriad Pro", Arial;
     font-size: .88em;
     text-align: left;
 }
